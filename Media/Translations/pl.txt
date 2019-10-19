@@ -94,7 +94,7 @@ BRONZE_MEDAL: BRĄZOWY MEDAL
 NOTIFICATION_TRY_CAMPAIGN_TITLE: Chcesz wypróbować kampanię?
 NOTIFICATION_TRY_CAMPAIGN_CONTENT: Największa kampania w historii, wypełniona trasami Nadeo Reverse, Checkpointless, i Checkpointless Reverse! Kliknij tutaj.
 NOTIFICATION_SKINS_TITLE: A co ze skinami?
-NOTIFICATION_SKINS_CONTENT: Nowy ekran wyboru sskinów pozwoli Ci na zmianę wyglądu każdego auta. Kliknij tutaj aby przejść natychmiastowo.
+NOTIFICATION_SKINS_CONTENT: Nowy ekran wyboru skinów pozwoli Ci na zmianę wyglądu każdego auta. Kliknij tutaj aby przejść natychmiastowo.
 
 by: od 
 modified_by:  zmodyfikował 	
